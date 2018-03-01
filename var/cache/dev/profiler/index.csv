@@ -23,3 +23,11 @@ ec76ae,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_
 3f069e,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/1,1519732052,,200
 8d7c06,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1519732135,8fa904,200
 8fa904,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform,1519732135,,200
+6e1917,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1519742298,99443a,200
+99443a,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform,1519742298,,200
+f9f6b6,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/add,1519742304,ad95f6,200
+ad95f6,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/add,1519742305,,500
+c4d212,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/add,1519743164,499b05,200
+499b05,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/add,1519743164,,500
+5e12fe,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/add,1519810964,a049df,200
+a049df,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/add,1519810964,,500
