@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e8d0c42e-82f2-47e7-a696-8bac6220ebb2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
-      <change beforePath="$PROJECT_DIR$/src/OC/PlatformBundle/Antispam/OCAntispam.php" afterPath="$PROJECT_DIR$/src/OC/PlatformBundle/Antispam/OCAntispam.php" />
-      <change beforePath="$PROJECT_DIR$/src/OC/PlatformBundle/Controller/AdvertController.php" afterPath="$PROJECT_DIR$/src/OC/PlatformBundle/Controller/AdvertController.php" />
-      <change beforePath="$PROJECT_DIR$/src/OC/PlatformBundle/Resources/config/services.yml" afterPath="$PROJECT_DIR$/src/OC/PlatformBundle/Resources/config/services.yml" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerDeprecations.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerDeprecations.log" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/+/M/CazPcIjiUhnQoDENDZ7L" afterPath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/+/M/CazPcIjiUhnQoDENDZ7L" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/9/K/X3KVM95qQTXP5VIAIlvs" afterPath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/9/K/X3KVM95qQTXP5VIAIlvs" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/9/Z/rvNNp6XcHyyZug93p1HV" afterPath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/9/Z/rvNNp6XcHyyZug93p1HV" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/G/6/psB8FMBMGrkMbI-BiYVQ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/G/6/psB8FMBMGrkMbI-BiYVQ" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/R/E/7peLNBIPawrQ234RBHAC" afterPath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/R/E/7peLNBIPawrQ234RBHAC" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/U/O/rGf-ulvNVd5+MVMskV9a" afterPath="$PROJECT_DIR$/var/cache/dev/pools/lJjFAkHrIB/U/O/rGf-ulvNVd5+MVMskV9a" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
-      <change beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,7 +80,7 @@
       <file leaf-file-name="Advert.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OC/PlatformBundle/Entity/Advert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1672">
+            <state relative-caret-position="-1683">
               <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
               <folding />
             </state>
@@ -346,12 +328,12 @@
       <updated>1519729727976</updated>
       <workItem from="1519729729269" duration="2379000" />
       <workItem from="1519740533232" duration="2453000" />
-      <workItem from="1519897136872" duration="2820000" />
+      <workItem from="1519897136872" duration="3048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7652000" />
+    <option name="totallyTimeSpent" value="7880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -694,7 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OC/PlatformBundle/Entity/Advert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1672">
+        <state relative-caret-position="-1683">
           <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
           <folding />
         </state>
