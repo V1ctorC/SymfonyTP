@@ -35,4 +35,15 @@
         </a>
     </p>
 
+    <h3>Candidatures</h3>
+
+    {% for Application in listApplications %}
+    <i>Par {{ Application.author }}, le {{ Application.date|date('d/m/Y') }}</i>
+
+    <div class="well">
+        {{ Application.content }}
+    </div>
+
+    {% endfor %}
+
 {% endblock %}
