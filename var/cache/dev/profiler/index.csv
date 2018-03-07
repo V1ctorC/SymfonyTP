@@ -80,3 +80,17 @@ b96e44,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platfor
 bba267,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/6,1519918922,,200
 4dace1,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1519918986,ebd03c,200
 ebd03c,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/6,1519918986,,200
+64dc93,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/,1520003375,e93fd4,200
+e93fd4,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/,1520003375,,404
+5d8bd6,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1520003383,ef776d,200
+ef776d,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/1,1520003383,,200
+8c708d,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1520416748,31563b,200
+31563b,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform,1520416748,,200
+17f511,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/1,1520416752,a9665e,200
+a9665e,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/1,1520416752,,404
+b6421c,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1520416758,a82702,200
+a82702,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/2,1520416758,,200
+8f65f7,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/1,1520416761,a54ce3,200
+a54ce3,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/1,1520416762,,404
+882d43,127.0.0.1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1520416764,a0b18b,200
+a0b18b,::1,GET,http://localhost:8888/SymfonyTP/SymfonyTP/web/app_dev.php/platform/advert/3,1520416764,,200
