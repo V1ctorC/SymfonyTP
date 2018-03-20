@@ -1,0 +1,15 @@
+<html>
+<body>
+{{ 'Hello'|trans({'%name%': name}) }}
+
+<div>
+    <p>{{ 'hi'|trans }}</p>
+    <button>{{ 'cancel'|trans }}</button>
+    <button>{{ 'validate'|trans }}</button>
+</div>
+
+<br/>
+<p>{{  'site.devise'|trans }}</p>
+Aujourd'hui nous sommes le {{ 'now'|localizeddate('full', 'none') }} et il est {{ 'now'|localizeddate('none', 'short') }}
+</body>
+</html>
